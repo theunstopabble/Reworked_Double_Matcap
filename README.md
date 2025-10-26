@@ -1,7 +1,5 @@
 # Reworked Double Matcap
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge-here/deploy-status)](https://reworked-double-matcap-unstopabble.netlify.app/)
-
 A modern web project leveraging double matcap techniques for 3D shading effects, built with JavaScript, HTML, and CSS.
 
 ## Demo
